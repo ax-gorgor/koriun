@@ -72,10 +72,14 @@ font-family: "Poppins", sans-serif;
             
         }
 
-        .main-tittle .main-tittle-center h1  {
+        .main-tittle .main-tittle-center  h3   {
             font-size: 30px;
             letter-spacing: 2px;
-            text-align: center;}
+            text-align: center;
+        }
+
+        .main-tittle a{text-decoration: none;
+                        color: #888888;}
 
                     .main-tittle .main-tittle-center h3  {
             font-size: 24px;
@@ -577,4 +581,3 @@ font-family: "Poppins", sans-serif;
           font-size: 18px;}      
             
   }
-
